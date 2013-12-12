@@ -12,8 +12,8 @@
         "Address": "NE Corner of Mill and Apache. Tempe, AZ",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Gammage Auditorium",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Gammage_Auditorium'>Wikipedia Ariticle</a>"
+        "Title": "Gammage Auditorium",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Gammage_Auditorium'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -29,8 +29,8 @@
         "Address": "N of jct. of Shea Blvd. and 108th St. Scottsdale, AZ",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Taliesin West",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Taliesin_West'>Wikipedia Ariticle</a>"
+        "Title": "Taliesin West",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Taliesin_West'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -46,8 +46,8 @@
         "Address": "332 N.Rodeo Dr. Beverly Hills, CA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Anderton Court Shops",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Anderton_Court_Shops'>Wikipedia Ariticle</a>"
+        "Title": "Anderton Court Shops",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Anderton_Court_Shops'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -63,8 +63,8 @@
         "Address": "4800 Hollywood Blvd. Los Angeles, CA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Barnsdall Park",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Barnsdall_Park'>Wikipedia Ariticle</a>"
+        "Title": "Barnsdall Park",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Barnsdall_Park'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -80,8 +80,8 @@
         "Address": "2607 Glendower Ave. Los Angeles, CA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Ennis House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Ennis_House'>Wikipedia Ariticle</a>"
+        "Title": "Ennis House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Ennis_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -97,8 +97,8 @@
         "Address": "1962 Glencoe Way Los Angeles, CA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Samuel Freeman House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Samuel_Freeman_House'>Wikipedia Ariticle</a>"
+        "Title": "Samuel Freeman House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Samuel_Freeman_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -114,8 +114,8 @@
         "Address": "737 Frenchman's Rd. Palo Alto, CA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Hanna-Honeycomb House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Hanna-Honeycomb_House'>Wikipedia Ariticle</a>"
+        "Title": "Hanna-Honeycomb House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Hanna-Honeycomb_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -131,8 +131,8 @@
         "Address": "Jct. of N. San Pedro Rd. and Civic Center Dr. San Rafael, CA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Marin County Civic Center",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Marin_County_Civic_Center'>Wikipedia Ariticle</a>"
+        "Title": "Marin County Civic Center",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Marin_County_Civic_Center'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -148,8 +148,8 @@
         "Address": "645 Prospect Crescent Pasadena, CA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Millard House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Millard_House'>Wikipedia Ariticle</a>"
+        "Title": "Millard House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Millard_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -165,8 +165,8 @@
         "Address": "8161 Hollywood Blvd. Los Angeles, CA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Storer House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Storer_House'>Wikipedia Ariticle</a>"
+        "Title": "Storer House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Storer_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -182,8 +182,8 @@
         "Address": "McDonald and Johnson Aves. Lakeland, FL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Florida Southern College",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Florida_Southern_College'>Wikipedia Ariticle</a>"
+        "Title": "Florida Southern College",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Florida_Southern_College'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -199,8 +199,8 @@
         "Address": "N of Tallahassee at 3117 Okeeheepkee Rd. Tallahassee vicintiy, FL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Lewis House (Tallahassee, Florida)",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Lewis_House_(Tallahassee,_Florida)'>Wikipedia Ariticle</a>"
+        "Title": "Lewis House (Tallahassee, Florida)",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Lewis_House_(Tallahassee,_Florida)'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -216,8 +216,8 @@
         "Address": "1415 Fort St. Boise, ID",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Judge Charles P. McCarthy House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Judge_Charles_P._McCarthy_House'>Wikipedia Ariticle</a>"
+        "Title": "Judge Charles P. McCarthy House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Judge_Charles_P._McCarthy_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -233,8 +233,8 @@
         "Address": "SE of Bliss Bliss, ID",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Archie Teater Studio",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Archie_Teater_Studio'>Wikipedia Ariticle</a>"
+        "Title": "Archie Teater Studio",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Archie_Teater_Studio'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -250,8 +250,8 @@
         "Address": "1923 Lake Ave. Highland Park, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Mary W. Adams House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Mary_W._Adams_House'>Wikipedia Ariticle</a>"
+        "Title": "Mary W. Adams House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Mary_W._Adams_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -267,8 +267,8 @@
         "Address": "7415 N. Sheridan Rd. Chicago, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Emil Bach House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Emil_Bach_House'>Wikipedia Ariticle</a>"
+        "Title": "Emil Bach House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Emil_Bach_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -284,8 +284,8 @@
         "Address": "507 Lake Ave. Wilmette, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Frank J. Baker House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Frank_J._Baker_House'>Wikipedia Ariticle</a>"
+        "Title": "Frank J. Baker House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Frank_J._Baker_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -301,8 +301,8 @@
         "Address": "205 Essex Rd. Kenilworth, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Hiram Baldwin House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Hiram_Baldwin_House'>Wikipedia Ariticle</a>"
+        "Title": "Hiram Baldwin House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Hiram_Baldwin_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -318,8 +318,8 @@
         "Address": "1365 N. Astor St. Chicago, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "James Charnley House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/James_Charnley_House'>Wikipedia Ariticle</a>"
+        "Title": "James Charnley House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/James_Charnley_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -335,8 +335,8 @@
         "Address": "290 and 300 Scottswood Rd., 281 Bloomingbank Rd., and 336 Coonley St. Riverside, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Coonley House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Coonley_House'>Wikipedia Ariticle</a>"
+        "Title": "Coonley House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Coonley_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -352,8 +352,8 @@
         "Address": "301 Lawrence Ave. Springfield, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Dana-Thomas House State Historic Site",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Dana-Thomas_House_State_Historic_Site'>Wikipedia Ariticle</a>"
+        "Title": "Dana-Thomas House State Historic Site",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Dana-Thomas_House_State_Historic_Site'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -369,8 +369,8 @@
         "Address": "1511 S. Batavia Ave. Geneva, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Fabyan Villa",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Fabyan_Villa'>Wikipedia Ariticle</a>"
+        "Title": "Fabyan Villa",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Fabyan_Villa'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -386,8 +386,8 @@
         "Address": "Bounded roughly by Harlem Ave., Division, Clyde, and Lake Sts. Oak Park, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Frank Lloyd Wright-Prairie School of Architecture Historic District",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Frank_Lloyd_Wright-Prairie_School_of_Architecture_Historic_District'>Wikipedia Ariticle</a>"
+        "Title": "Frank Lloyd Wright-Prairie School of Architecture Historic District",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Frank_Lloyd_Wright-Prairie_School_of_Architecture_Historic_District'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -403,8 +403,8 @@
         "Address": "6 Elizabeth Ct. Oak Park, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Mrs. Thomas H. Gale House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Mrs._Thomas_H._Gale_House'>Wikipedia Ariticle</a>"
+        "Title": "Mrs. Thomas H. Gale House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Mrs._Thomas_H._Gale_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -420,8 +420,8 @@
         "Address": "1031 W. Chicago Ave. Oak Park, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Walter Gale House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Walter_Gale_House'>Wikipedia Ariticle</a>"
+        "Title": "Walter Gale House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Walter_Gale_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -437,8 +437,8 @@
         "Address": "850 Sheridan Rd. Glencoe, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "William A. Glasner House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/William_A._Glasner_House'>Wikipedia Ariticle</a>"
+        "Title": "William A. Glasner House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/William_A._Glasner_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -454,8 +454,8 @@
         "Address": "637 N. Batavia Ave. Batavia, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Mrs. A. W. Gridley House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Mrs._A._W._Gridley_House'>Wikipedia Ariticle</a>"
+        "Title": "Mrs. A. W. Gridley House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Mrs._A._W._Gridley_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -471,8 +471,8 @@
         "Address": "5132 S. Woodland Ave. Chicago, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Isadore H. Heller House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Isadore_H._Heller_House'>Wikipedia Ariticle</a>"
+        "Title": "Isadore H. Heller House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Isadore_H._Heller_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -488,8 +488,8 @@
         "Address": "301 S. Kenilworth Elmhurst, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Frank B. Henderson House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Frank_B._Henderson_House'>Wikipedia Ariticle</a>"
+        "Title": "Frank B. Henderson House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Frank_B._Henderson_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -505,8 +505,8 @@
         "Address": "318 North Forest Avenue Oak Park, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Arthur Heurtley House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Arthur_Heurtley_House'>Wikipedia Ariticle</a>"
+        "Title": "Arthur Heurtley House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Arthur_Heurtley_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -522,8 +522,8 @@
         "Address": "687 S. Harrison Ave. Kankakee, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Warren Hickox House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Warren_Hickox_House'>Wikipedia Ariticle</a>"
+        "Title": "Warren Hickox House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Warren_Hickox_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -539,8 +539,8 @@
         "Address": "153 Little St. Mary Libertyville, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Lloyd Lewis House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Lloyd_Lewis_House'>Wikipedia Ariticle</a>"
+        "Title": "Lloyd Lewis House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Lloyd_Lewis_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -556,8 +556,8 @@
         "Address": "1689 Lake Ave. Highland Park, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "George Madison Millard House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/George_Madison_Millard_House'>Wikipedia Ariticle</a>"
+        "Title": "George Madison Millard House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/George_Madison_Millard_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -573,8 +573,8 @@
         "Address": "1100 N. Main St. Belvidere, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Pettit Memorial Chapel",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Pettit_Memorial_Chapel'>Wikipedia Ariticle</a>"
+        "Title": "Pettit Memorial Chapel",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Pettit_Memorial_Chapel'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -590,7 +590,7 @@
         "Address": "Between Harlem Ave. and Des Plaines River with 2 extensions N of Chicago Ave. and 2 extensions S of Lake St. River Forest, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "River Forest Historic District"
+        "Title": "River Forest Historic District"
       },
       "type": "Feature"
     },
@@ -606,8 +606,8 @@
         "Address": "Roughly bounded by River and Eagle Sts., Wildwood Ave., and the Kankakee River Kankakee, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Riverview Historic District",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Riverview_Historic_District'>Wikipedia Ariticle</a>"
+        "Title": "Riverview Historic District",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Riverview_Historic_District'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -623,8 +623,8 @@
         "Address": "5757 S. Woodlawn Ave. Chicago, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Frederick C. Robie House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Frederick_C._Robie_House'>Wikipedia Ariticle</a>"
+        "Title": "Frederick C. Robie House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Frederick_C._Robie_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -640,8 +640,8 @@
         "Address": "3213--3219 Calumet Ave. Chicago, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Robert Roloson Houses",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Robert_Roloson_Houses'>Wikipedia Ariticle</a>"
+        "Title": "Robert Roloson Houses",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Robert_Roloson_Houses'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -657,8 +657,8 @@
         "Address": "Sylvan Rd. Glencoe, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Sylvan Road Bridge",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Sylvan_Road_Bridge'>Wikipedia Ariticle</a>"
+        "Title": "Sylvan Road Bridge",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Sylvan_Road_Bridge'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -674,8 +674,8 @@
         "Address": "210 Forest Ave. Oak Park, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Frank Thomas House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Frank_Thomas_House'>Wikipedia Ariticle</a>"
+        "Title": "Frank Thomas House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Frank_Thomas_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -691,8 +691,8 @@
         "Address": "150 Nuttall Road Riverside, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "F.F. Tomek House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/F.F._Tomek_House'>Wikipedia Ariticle</a>"
+        "Title": "F.F. Tomek House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/F.F._Tomek_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -708,8 +708,8 @@
         "Address": "1445 Sheridan Rd. Highland Park, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Willits House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Willits_House'>Wikipedia Ariticle</a>"
+        "Title": "Willits House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Willits_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -725,8 +725,8 @@
         "Address": "515 Auvergne Pl. River Forest, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "William H. Winslow House And Stable",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/William_H._Winslow_House_And_Stable'>Wikipedia Ariticle</a>"
+        "Title": "William H. Winslow House And Stable",
+        "Link": "<a href='http://en.wikipedia.org/wiki/William_H._Winslow_House_And_Stable'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -742,8 +742,8 @@
         "Address": "428 Forest Ave. (house), 951 Chicago Ave. (studio) Oak Park, IL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Frank Lloyd Wright House and Studio",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Frank_Lloyd_Wright_House_and_Studio'>Wikipedia Ariticle</a>"
+        "Title": "Frank Lloyd Wright House and Studio",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Frank_Lloyd_Wright_House_and_Studio'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -759,8 +759,8 @@
         "Address": "Oak Park, Illinois",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Edwin H. Cheney House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Edwin_H._Cheney_House'>Wikipedia Ariticle</a>"
+        "Title": "Edwin H. Cheney House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Edwin_H._Cheney_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -776,8 +776,8 @@
         "Address": "1301 Woodland Ave. West Lafayette, IN",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "John E. and Catherine E. Christian House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/John_E._and_Catherine_E._Christian_House'>Wikipedia Ariticle</a>"
+        "Title": "John E. and Catherine E. Christian House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/John_E._and_Catherine_E._Christian_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -793,8 +793,8 @@
         "Address": "1119 Overlook Rd. Marion, IN",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Woodside",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Woodside_(Marion,_Indiana)'>Wikipedia Ariticle</a>"
+        "Title": "Woodside",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Woodside_(Marion,_Indiana)'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -810,8 +810,8 @@
         "Address": "600 Fillmore St. Gary, IN",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Wilbur Wynant House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Wilbur_Wynant_House'>Wikipedia Ariticle</a>"
+        "Title": "Wilbur Wynant House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Wilbur_Wynant_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -827,8 +827,8 @@
         "Address": "1907 A Avenue East Oskaloosa, IA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Carroll Alsop House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Carroll_Alsop_House'>Wikipedia Ariticle</a>"
+        "Title": "Carroll Alsop House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Carroll_Alsop_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -844,8 +844,8 @@
         "Address": "4 S. Federal Ave. Mason City, IA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "City National Bank Building (Iowa)",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/City_National_Bank_Building_(Iowa)'>Wikipedia Ariticle</a>"
+        "Title": "City National Bank Building (Iowa)",
+        "Link": "<a href='http://en.wikipedia.org/wiki/City_National_Bank_Building_(Iowa)'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -861,8 +861,8 @@
         "Address": "3400 Adel St. SE Marion, IA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Douglas and Charlotte Grant House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Douglas_and_Charlotte_Grant_House'>Wikipedia Ariticle</a>"
+        "Title": "Douglas and Charlotte Grant House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Douglas_and_Charlotte_Grant_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -878,8 +878,8 @@
         "Address": "511 N. Park Ave. Oskaloosa, IA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Jack Lamberson House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Jack_Lamberson_House'>Wikipedia Ariticle</a>"
+        "Title": "Jack Lamberson House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Jack_Lamberson_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -895,7 +895,7 @@
         "Address": "Roughly bounded by N. 46th St., Georgia Ave., Washington Ave. and S. 2nd St. Mason City, IA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Mason City Downtown Historic District"
+        "Title": "Mason City Downtown Historic District"
       },
       "type": "Feature"
     },
@@ -911,8 +911,8 @@
         "Address": "1107 Court St. Charles City, IA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Alvin Miller House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Alvin_Miller_House'>Wikipedia Ariticle</a>"
+        "Title": "Alvin Miller House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Alvin_Miller_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -928,8 +928,8 @@
         "Address": "15 W. State St. Mason City, IA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Park Inn Hotel",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Park_Inn_Hotel'>Wikipedia Ariticle</a>"
+        "Title": "Park Inn Hotel",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Park_Inn_Hotel'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -945,8 +945,8 @@
         "Address": "311 1st St., SE Mason City, IA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Dr. G. C. Stockman House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Dr._G._C._Stockman_House'>Wikipedia Ariticle</a>"
+        "Title": "Dr. G. C. Stockman House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Dr._G._C._Stockman_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -962,8 +962,8 @@
         "Address": "1701 Woodfield Rd. Marshalltown, IA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Robert H. Sunday House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Robert_H._Sunday_House'>Wikipedia Ariticle</a>"
+        "Title": "Robert H. Sunday House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Robert_H._Sunday_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -979,8 +979,8 @@
         "Address": "6880 N.W. Beaver Dr. Johnston, IA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Paul J. and Ida Trier House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Paul_J._and_Ida_Trier_House'>Wikipedia Ariticle</a>"
+        "Title": "Paul J. and Ida Trier House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Paul_J._and_Ida_Trier_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -996,8 +996,8 @@
         "Address": "Off SR W35, NW of Quasqueton Quasqueton, IA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Lowell E. Walter House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Lowell_E._Walter_House'>Wikipedia Ariticle</a>"
+        "Title": "Lowell E. Walter House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Lowell_E._Walter_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1013,8 +1013,8 @@
         "Address": "10036,10069,11090,11108 and 11185 Hawthorne Dr. Charleston Township, MI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "The Acres",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/The_Acres'>Wikipedia Ariticle</a>"
+        "Title": "The Acres",
+        "Link": "<a href='http://en.wikipedia.org/wiki/The_Acres'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1030,8 +1030,8 @@
         "Address": "1925 N. Woodward Ave. Bloomfield Hills, MI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Gregor S. and Elizabeth B. Affleck House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Gregor_S._and_Elizabeth_B._Affleck_House'>Wikipedia Ariticle</a>"
+        "Title": "Gregor S. and Elizabeth B. Affleck House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Gregor_S._and_Elizabeth_B._Affleck_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1047,8 +1047,8 @@
         "Address": "2410 Hulett Rd., Meridian Township, Okemos, MI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Goetsch--Winckler House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Goetsch--Winckler_House'>Wikipedia Ariticle</a>"
+        "Title": "Goetsch--Winckler House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Goetsch--Winckler_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1064,8 +1064,8 @@
         "Address": "Bounded by Michigan Ave. on the N, Pleasant St. on the S, Union Ave. on the E, and Clarendon Pl. and Jefferson Ave. Grand Rapids, MI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Heritage Hill Historic District",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Heritage_Hill_Historic_District'>Wikipedia Ariticle</a>"
+        "Title": "Heritage Hill Historic District",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Heritage_Hill_Historic_District'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1081,8 +1081,8 @@
         "Address": "227 Orchard Hills Dr. Ann Arbor, MI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "William B. and Mary Shuford Palmer House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/William_B._and_Mary_Shuford_Palmer_House'>Wikipedia Ariticle</a>"
+        "Title": "William B. and Mary Shuford Palmer House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/William_B._and_Mary_Shuford_Palmer_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1098,8 +1098,8 @@
         "Address": "5045 Ponvalley Rd., Bloomfield Township Pontiac, MI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Melvyn Maxwell and Sara Stein Smith House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Melvyn_Maxwell_and_Sara_Stein_Smith_House'>Wikipedia Ariticle</a>"
+        "Title": "Melvyn Maxwell and Sara Stein Smith House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Melvyn_Maxwell_and_Sara_Stein_Smith_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1115,8 +1115,8 @@
         "Address": "12305 Beck Rd. Plymouth, MI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Carlton D. Wall House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Carlton_D._Wall_House'>Wikipedia Ariticle</a>"
+        "Title": "Carlton D. Wall House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Carlton_D._Wall_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1132,8 +1132,8 @@
         "Address": "801 Pine St. Hastings, MN",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Fasbender Clinic",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Fasbender_Clinic'>Wikipedia Ariticle</a>"
+        "Title": "Fasbender Clinic",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Fasbender_Clinic'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1149,7 +1149,7 @@
         "Address": "202 Cloquet Ave. Cloquet, MN",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "R.W. Lindholm Service Station"
+        "Title": "R.W. Lindholm Service Station"
       },
       "type": "Feature"
     },
@@ -1165,8 +1165,8 @@
         "Address": "2801 Burnham Blvd. Minneapolis, MN",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Frieda and Henry J. Neils House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Frieda_and_Henry_J._Neils_House'>Wikipedia Ariticle</a>"
+        "Title": "Frieda and Henry J. Neils House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Frieda_and_Henry_J._Neils_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1182,8 +1182,8 @@
         "Address": "255 Bedford St., SE Minneapolis, MN",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Malcolm Willey House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Malcolm_Willey_House'>Wikipedia Ariticle</a>"
+        "Title": "Malcolm Willey House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Malcolm_Willey_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1199,8 +1199,8 @@
         "Address": "120 N. Ballas Rd. Kirkwood, MO",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Kraus House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Kraus_House'>Wikipedia Ariticle</a>"
+        "Title": "Kraus House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Kraus_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1216,8 +1216,8 @@
         "Address": "865 Masonridge Rd. St. Louis, MO",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Theodore A. Pappas House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Theodore_A._Pappas_House'>Wikipedia Ariticle</a>"
+        "Title": "Theodore A. Pappas House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Theodore_A._Pappas_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1233,8 +1233,8 @@
         "Address": "Irregular pattern along East Ave. from Probert St. to Alexander St. Rochester, NY",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "East Avenue Historic District",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/East_Avenue_Historic_District'>Wikipedia Ariticle</a>"
+        "Title": "East Avenue Historic District",
+        "Link": "<a href='http://en.wikipedia.org/wiki/East_Avenue_Historic_District'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1250,8 +1250,8 @@
         "Address": "6472-6482 Lakeshore Rd. Derby, NY",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Graycliff",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Graycliff'>Wikipedia Ariticle</a>"
+        "Title": "Graycliff",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Graycliff'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1267,8 +1267,8 @@
         "Address": "1071 Fifth Ave. New York, NY",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Solomon R. Guggenheim Museum",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum'>Wikipedia Ariticle</a>"
+        "Title": "Solomon R. Guggenheim Museum",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1284,8 +1284,8 @@
         "Address": "123 Jewett Pkwy. Buffalo, NY",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "D. D. Martin House Complex",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/D._D._Martin_House_Complex'>Wikipedia Ariticle</a>"
+        "Title": "D. D. Martin House Complex",
+        "Link": "<a href='http://en.wikipedia.org/wiki/D._D._Martin_House_Complex'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1301,8 +1301,8 @@
         "Address": "125 Jewett Pkwy. Buffalo, NY",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Darwin D. Martin House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Darwin_D._Martin_House'>Wikipedia Ariticle</a>"
+        "Title": "Darwin D. Martin House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Darwin_D._Martin_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1318,8 +1318,8 @@
         "Address": "Roughly bounded by Parkside Ave., Amherst St., Colvin Ave., NY Central RR tracks, Main St., and Humboldt Ave. Buffalo, NY",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Parkside East Historic District",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Parkside_East_Historic_District'>Wikipedia Ariticle</a>"
+        "Title": "Parkside East Historic District",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Parkside_East_Historic_District'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1335,8 +1335,8 @@
         "Address": "1 Rawson Woods Circle. Cincinnati, OH",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Cedric G. and Patricia Neils Boulter House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Cedric_G._and_Patricia_Neils_Boulter_House'>Wikipedia Ariticle</a>"
+        "Title": "Cedric G. and Patricia Neils Boulter House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Cedric_G._and_Patricia_Neils_Boulter_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1352,8 +1352,8 @@
         "Address": "S of Wellington on OH 58, Wellington Township Wellington, OH",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Mosher House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Mosher_House'>Wikipedia Ariticle</a>"
+        "Title": "Mosher House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Mosher_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1369,8 +1369,8 @@
         "Address": "2203 River Rd. Willoughby Hills, OH",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Louis A. Penfield House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Louis_A._Penfield_House'>Wikipedia Ariticle</a>"
+        "Title": "Louis A. Penfield House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Louis_A._Penfield_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1386,8 +1386,8 @@
         "Address": "6980 Knoll Rd. Cincinnati, OH",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Gerald B. and Beverley Tonkens House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Gerald_B._and_Beverley_Tonkens_House'>Wikipedia Ariticle</a>"
+        "Title": "Gerald B. and Beverley Tonkens House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Gerald_B._and_Beverley_Tonkens_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1403,8 +1403,8 @@
         "Address": "1340 E. High St. Springfield, OH",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Westcott House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Westcott_House'>Wikipedia Ariticle</a>"
+        "Title": "Westcott House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Westcott_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1420,8 +1420,8 @@
         "Address": "6th St. and Dewey Ave. Bartlesville, OK",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Price Tower",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Price_Tower'>Wikipedia Ariticle</a>"
+        "Title": "Price Tower",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Price_Tower'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1437,8 +1437,8 @@
         "Address": "3704 S. Birmingham St. Tulsa, OK",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Westhope",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Westhope'>Wikipedia Ariticle</a>"
+        "Title": "Westhope",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Westhope'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1454,8 +1454,8 @@
         "Address": "E of Millerton on U.S. 70 Millerton, OK",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Wheelock Academy",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Wheelock_Academy'>Wikipedia Ariticle</a>"
+        "Title": "Wheelock Academy",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Wheelock_Academy'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1471,8 +1471,8 @@
         "Address": "8231 Old York Road, Elkins Park, PA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Beth Sholom Congregation (Elkins Park, Pennsylvania)",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Beth_Sholom_Congregation_(Elkins_Park,_Pennsylvania)'>Wikipedia Ariticle</a>"
+        "Title": "Beth Sholom Congregation (Elkins Park, Pennsylvania)",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Beth_Sholom_Congregation_(Elkins_Park,_Pennsylvania)'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1488,8 +1488,8 @@
         "Address": "W of PA 381 Mill Run, PA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Fallingwater",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Fallingwater'>Wikipedia Ariticle</a>"
+        "Title": "Fallingwater",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Fallingwater'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1505,8 +1505,8 @@
         "Address": "723 Kentuck Road, Chalk Hill, PA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Kentuck Knob",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Kentuck_Knob'>Wikipedia Ariticle</a>"
+        "Title": "Kentuck Knob",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Kentuck_Knob'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1521,8 +1521,8 @@
       "properties": {
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Auldbrass Plantation",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Auldbrass_Plantation'>Wikipedia Ariticle</a>"
+        "Title": "Auldbrass Plantation",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Auldbrass_Plantation'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1538,8 +1538,8 @@
         "Address": "9 W. Avondale Dr. Greenville, SC",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Broad Margin",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Broad_Margin'>Wikipedia Ariticle</a>"
+        "Title": "Broad Margin",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Broad_Margin'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1555,8 +1555,8 @@
         "Address": "100-500 Blks of E. Fifth Ave. Kenbridge, VA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Fifth Avenue Historic District",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Fifth_Avenue_Historic_District'>Wikipedia Ariticle</a>"
+        "Title": "Fifth Avenue Historic District",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Fifth_Avenue_Historic_District'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1572,8 +1572,8 @@
         "Address": "E of Accotink off U.S. 1 Accotink, VA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Pope-Leighey House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Pope-Leighey_House'>Wikipedia Ariticle</a>"
+        "Title": "Pope-Leighey House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Pope-Leighey_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1589,8 +1589,8 @@
         "Address": "2202 212th Ave. SE. Issaquah, WA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Brandes House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Brandes_House'>Wikipedia Ariticle</a>"
+        "Title": "Brandes House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Brandes_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1606,8 +1606,8 @@
         "Address": "18971 Edgecliff Dr. SW. Seattle, WA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Tracy House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Tracy_House'>Wikipedia Ariticle</a>"
+        "Title": "Tracy House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Tracy_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1623,8 +1623,8 @@
         "Address": "316 S. Church St. Richland Center, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "A. D. German Warehouse",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/A._D._German_Warehouse'>Wikipedia Ariticle</a>"
+        "Title": "A. D. German Warehouse",
+        "Link": "<a href='http://en.wikipedia.org/wiki/A._D._German_Warehouse'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1640,8 +1640,8 @@
         "Address": "7111 N. Barnett Ln. Fox Point, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Allbert and Edith Adelman House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Allbert_and_Edith_Adelman_House'>Wikipedia Ariticle</a>"
+        "Title": "Allbert and Edith Adelman House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Allbert_and_Edith_Adelman_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1657,8 +1657,8 @@
         "Address": "W. Burnham St. Milwaukee, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "American System Built Homes-Burnham Street District",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/American_System_Built_Homes-Burnham_Street_District'>Wikipedia Ariticle</a>"
+        "Title": "American System Built Homes-Burnham Street District",
+        "Link": "<a href='http://en.wikipedia.org/wiki/American_System_Built_Homes-Burnham_Street_District'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1674,8 +1674,8 @@
         "Address": "9400 W. Congress St. Wauwatosa, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Annunciation Greek Orthodox Church",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Annunciation_Greek_Orthodox_Church'>Wikipedia Ariticle</a>"
+        "Title": "Annunciation Greek Orthodox Church",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Annunciation_Greek_Orthodox_Church'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1691,8 +1691,8 @@
         "Address": "2420 N. Terrace Ave. Milwaukee, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Frederick C. Bogk House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Frederick_C._Bogk_House'>Wikipedia Ariticle</a>"
+        "Title": "Frederick C. Bogk House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Frederick_C._Bogk_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1708,8 +1708,8 @@
         "Address": "900 University Bay Dr. Shorewood Hills, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "First Unitarian Society",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/First_Unitarian_Society'>Wikipedia Ariticle</a>"
+        "Title": "First Unitarian Society",
+        "Link": "<a href='http://en.wikipedia.org/wiki/First_Unitarian_Society'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1725,8 +1725,8 @@
         "Address": "120 Ely Pl. Madison, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Eugene A. Gilmore House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Eugene_A._Gilmore_House'>Wikipedia Ariticle</a>"
+        "Title": "Eugene A. Gilmore House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Eugene_A._Gilmore_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1742,8 +1742,8 @@
         "Address": "1319 S. Main St. Racine, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Thomas P. Hardy House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Thomas_P._Hardy_House'>Wikipedia Ariticle</a>"
+        "Title": "Thomas P. Hardy House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Thomas_P._Hardy_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1759,8 +1759,8 @@
         "Address": "441 Toepfer Ave. Madison, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Herbert A. Jacobs House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Herbert_A._Jacobs_House'>Wikipedia Ariticle</a>"
+        "Title": "Herbert A. Jacobs House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Herbert_A._Jacobs_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1776,8 +1776,8 @@
         "Address": "441 Toepfer Avenue Madison, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Herbert and Katherine Jacobs, First House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs,_First_House'>Wikipedia Ariticle</a>"
+        "Title": "Herbert and Katherine Jacobs, First House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs,_First_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1793,8 +1793,8 @@
         "Address": "3995 Shawn Trail Middleton, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Herbert and Katherine Jacobs, Second House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs,_Second_House'>Wikipedia Ariticle</a>"
+        "Title": "Herbert and Katherine Jacobs, Second House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs,_Second_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1810,8 +1810,8 @@
         "Address": "3995 Shawn Trail Madison, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Herbert Jacobs, Second House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Herbert_Jacobs,_Second_House'>Wikipedia Ariticle</a>"
+        "Title": "Herbert Jacobs, Second House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Herbert_Jacobs,_Second_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1827,8 +1827,8 @@
         "Address": "3455 S. Shore Dr. Delavan, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "A.P. Johnson House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/A.P._Johnson_House'>Wikipedia Ariticle</a>"
+        "Title": "A.P. Johnson House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/A.P._Johnson_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1844,8 +1844,8 @@
         "Address": "33 E. Four Mile Rd. Wind Point, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Herbert F. Johnson House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Herbert_F._Johnson_House'>Wikipedia Ariticle</a>"
+        "Title": "Herbert F. Johnson House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Herbert_F._Johnson_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1861,8 +1861,8 @@
         "Address": "1525 Howe St. Racine, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Johnson Wax Headquarters",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Johnson_Wax_Headquarters'>Wikipedia Ariticle</a>"
+        "Title": "Johnson Wax Headquarters",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Johnson_Wax_Headquarters'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1878,8 +1878,8 @@
         "Address": "3335 S. Shore Dr. Delavan Lake, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Fred B. Jones Estate",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Fred_B._Jones_Estate'>Wikipedia Ariticle</a>"
+        "Title": "Fred B. Jones Estate",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Fred_B._Jones_Estate'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1895,8 +1895,8 @@
         "Address": "22 N. Butler St. Madison, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Robert M. Lamp House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Robert_M._Lamp_House'>Wikipedia Ariticle</a>"
+        "Title": "Robert M. Lamp House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Robert_M._Lamp_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1912,8 +1912,8 @@
         "Address": "Dell Ave. Lake Delton, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Seth Peterson Cottage",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Seth_Peterson_Cottage'>Wikipedia Ariticle</a>"
+        "Title": "Seth Peterson Cottage",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Seth_Peterson_Cottage'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1929,8 +1929,8 @@
         "Address": "332 E. Linden St. Jefferson, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Richard C. Smith House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Richard_C._Smith_House'>Wikipedia Ariticle</a>"
+        "Title": "Richard C. Smith House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Richard_C._Smith_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1946,8 +1946,8 @@
         "Address": "2 mi. S of Spring Green on WI 23 Spring Green, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Taliesin (studio)",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Taliesin_(studio)'>Wikipedia Ariticle</a>"
+        "Title": "Taliesin (studio)",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Taliesin_(studio)'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1963,8 +1963,8 @@
         "Address": "S of Spring Green off WI 23 Spring Green, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Unity Chapel",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Unity_Chapel'>Wikipedia Ariticle</a>"
+        "Title": "Unity Chapel",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Unity_Chapel'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1980,8 +1980,8 @@
         "Address": "904 Grand Ave. Wausau, WI",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Duey and Julia Wright House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Duey_and_Julia_Wright_House'>Wikipedia Ariticle</a>"
+        "Title": "Duey and Julia Wright House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Duey_and_Julia_Wright_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -1997,8 +1997,8 @@
         "Address": "117 Riverview Dr. Florence, AL",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Rosenbaum House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Rosenbaum_House'>Wikipedia Ariticle</a>"
+        "Title": "Rosenbaum House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Rosenbaum_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -2030,8 +2030,8 @@
         "Address": "619 Shipley Rd. Wilmington, DE",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Laurel (Wilmington, Delaware)",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Laurel_(Wilmington,_Delaware)'>Wikipedia Ariticle</a>"
+        "Title": "Laurel (Wilmington, Delaware)",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Laurel_(Wilmington,_Delaware)'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -2047,8 +2047,8 @@
         "Address": "255 N. Roosevelt St. Wichita, KS",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Henry J. Allen House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Henry_J._Allen_House'>Wikipedia Ariticle</a>"
+        "Title": "Henry J. Allen House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Henry_J._Allen_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -2064,8 +2064,8 @@
         "Address": "509 Shelby St. Frankfort, KY",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Jessie R. Ziegler Residence",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Jessie_R._Ziegler_Residence'>Wikipedia Ariticle</a>"
+        "Title": "Jessie R. Ziegler Residence",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Jessie_R._Ziegler_Residence'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -2081,8 +2081,8 @@
         "Address": "7927 Deepwell Dr. Bethesda, MD",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Robert Llewellyn Wright House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Robert_Llewellyn_Wright_House'>Wikipedia Ariticle</a>"
+        "Title": "Robert Llewellyn Wright House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Robert_Llewellyn_Wright_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -2098,8 +2098,8 @@
         "Address": "38 Shays St. Amherst, MA",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Theodore Baird Residence",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Theodore_Baird_Residence'>Wikipedia Ariticle</a>"
+        "Title": "Theodore Baird Residence",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Theodore_Baird_Residence'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -2115,8 +2115,8 @@
         "Address": "306 Glen Way Jackson, MS",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Fountainhead (Jackson, Mississippi)",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Fountainhead_(Jackson,_Mississippi)'>Wikipedia Ariticle</a>"
+        "Title": "Fountainhead (Jackson, Mississippi)",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Fountainhead_(Jackson,_Mississippi)'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -2132,8 +2132,8 @@
         "Address": "602 Norris Ave. McCook, NE",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "H. P. Stutton House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/H._P._Stutton_House'>Wikipedia Ariticle</a>"
+        "Title": "H. P. Stutton House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/H._P._Stutton_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -2149,8 +2149,8 @@
         "Address": "223 Heather St. Manchester, NH",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Zimmerman House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Zimmerman_House'>Wikipedia Ariticle</a>"
+        "Title": "Zimmerman House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Zimmerman_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -2166,8 +2166,8 @@
         "Address": "879 W. Main St. Siverton, OR",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Gordon House (Oregon)",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Gordon_House_(Oregon)'>Wikipedia Ariticle</a>"
+        "Title": "Gordon House (Oregon)",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Gordon_House_(Oregon)'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -2183,8 +2183,8 @@
         "Address": "334 N. Crest Rd. Chattanooga, TN",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Seamour and Gerte Shavin House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Seamour_and_Gerte_Shavin_House'>Wikipedia Ariticle</a>"
+        "Title": "Seamour and Gerte Shavin House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Seamour_and_Gerte_Shavin_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     },
@@ -2200,8 +2200,8 @@
         "Address": "5588 Greybull Hwy. Cody, WY",
         "marker-size": "small",
         "marker-symbol": "building",
-        "title": "Quintin Blair House",
-        "wiki": "<a href='http://en.wikipedia.org/wiki/Quintin_Blair_House'>Wikipedia Ariticle</a>"
+        "Title": "Quintin Blair House",
+        "Link": "<a href='http://en.wikipedia.org/wiki/Quintin_Blair_House'>Wikipedia Ariticle</a>"
       },
       "type": "Feature"
     }
