@@ -10,6 +10,8 @@
       },
       "properties": {
         "Address": "NE Corner of Mill and Apache. Tempe, AZ",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Gammage Auditorium",
         "wiki": "http://en.wikipedia.org/wiki/Gammage_Auditorium"
       },
@@ -25,6 +27,8 @@
       },
       "properties": {
         "Address": "N of jct. of Shea Blvd. and 108th St. Scottsdale, AZ",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Taliesin West",
         "wiki": "http://en.wikipedia.org/wiki/Taliesin_West"
       },
@@ -40,6 +44,8 @@
       },
       "properties": {
         "Address": "332 N.Rodeo Dr. Beverly Hills, CA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Anderton Court Shops",
         "wiki": "http://en.wikipedia.org/wiki/Anderton_Court_Shops"
       },
@@ -55,6 +61,8 @@
       },
       "properties": {
         "Address": "4800 Hollywood Blvd. Los Angeles, CA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Barnsdall Park",
         "wiki": "http://en.wikipedia.org/wiki/Barnsdall_Park"
       },
@@ -70,6 +78,8 @@
       },
       "properties": {
         "Address": "2607 Glendower Ave. Los Angeles, CA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Ennis House",
         "wiki": "http://en.wikipedia.org/wiki/Ennis_House"
       },
@@ -85,6 +95,8 @@
       },
       "properties": {
         "Address": "1962 Glencoe Way Los Angeles, CA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Samuel Freeman House",
         "wiki": "http://en.wikipedia.org/wiki/Samuel_Freeman_House"
       },
@@ -100,6 +112,8 @@
       },
       "properties": {
         "Address": "737 Frenchman's Rd. Palo Alto, CA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Hanna-Honeycomb House",
         "wiki": "http://en.wikipedia.org/wiki/Hanna-Honeycomb_House"
       },
@@ -115,6 +129,8 @@
       },
       "properties": {
         "Address": "Jct. of N. San Pedro Rd. and Civic Center Dr. San Rafael, CA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Marin County Civic Center",
         "wiki": "http://en.wikipedia.org/wiki/Marin_County_Civic_Center"
       },
@@ -130,6 +146,8 @@
       },
       "properties": {
         "Address": "645 Prospect Crescent Pasadena, CA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Millard House",
         "wiki": "http://en.wikipedia.org/wiki/Millard_House"
       },
@@ -145,6 +163,8 @@
       },
       "properties": {
         "Address": "8161 Hollywood Blvd. Los Angeles, CA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Storer House",
         "wiki": "http://en.wikipedia.org/wiki/Storer_House"
       },
@@ -160,6 +180,8 @@
       },
       "properties": {
         "Address": "McDonald and Johnson Aves. Lakeland, FL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Florida Southern College",
         "wiki": "http://en.wikipedia.org/wiki/Florida_Southern_College"
       },
@@ -175,6 +197,8 @@
       },
       "properties": {
         "Address": "N of Tallahassee at 3117 Okeeheepkee Rd. Tallahassee vicintiy, FL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Lewis House (Tallahassee, Florida)",
         "wiki": "http://en.wikipedia.org/wiki/Lewis_House_(Tallahassee,_Florida)"
       },
@@ -190,6 +214,8 @@
       },
       "properties": {
         "Address": "1415 Fort St. Boise, ID",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Judge Charles P. McCarthy House",
         "wiki": "http://en.wikipedia.org/wiki/Judge_Charles_P._McCarthy_House"
       },
@@ -205,6 +231,8 @@
       },
       "properties": {
         "Address": "SE of Bliss Bliss, ID",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Archie Teater Studio",
         "wiki": "http://en.wikipedia.org/wiki/Archie_Teater_Studio"
       },
@@ -220,6 +248,8 @@
       },
       "properties": {
         "Address": "1923 Lake Ave. Highland Park, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Mary W. Adams House",
         "wiki": "http://en.wikipedia.org/wiki/Mary_W._Adams_House"
       },
@@ -235,6 +265,8 @@
       },
       "properties": {
         "Address": "7415 N. Sheridan Rd. Chicago, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Emil Bach House",
         "wiki": "http://en.wikipedia.org/wiki/Emil_Bach_House"
       },
@@ -250,6 +282,8 @@
       },
       "properties": {
         "Address": "507 Lake Ave. Wilmette, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Frank J. Baker House",
         "wiki": "http://en.wikipedia.org/wiki/Frank_J._Baker_House"
       },
@@ -265,6 +299,8 @@
       },
       "properties": {
         "Address": "205 Essex Rd. Kenilworth, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Hiram Baldwin House",
         "wiki": "http://en.wikipedia.org/wiki/Hiram_Baldwin_House"
       },
@@ -280,6 +316,8 @@
       },
       "properties": {
         "Address": "1365 N. Astor St. Chicago, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "James Charnley House",
         "wiki": "http://en.wikipedia.org/wiki/James_Charnley_House"
       },
@@ -295,6 +333,8 @@
       },
       "properties": {
         "Address": "290 and 300 Scottswood Rd., 281 Bloomingbank Rd., and 336 Coonley St. Riverside, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Coonley House",
         "wiki": "http://en.wikipedia.org/wiki/Coonley_House"
       },
@@ -310,6 +350,8 @@
       },
       "properties": {
         "Address": "301 Lawrence Ave. Springfield, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Dana-Thomas House State Historic Site",
         "wiki": "http://en.wikipedia.org/wiki/Dana-Thomas_House_State_Historic_Site"
       },
@@ -325,6 +367,8 @@
       },
       "properties": {
         "Address": "1511 S. Batavia Ave. Geneva, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Fabyan Villa",
         "wiki": "http://en.wikipedia.org/wiki/Fabyan_Villa"
       },
@@ -340,6 +384,8 @@
       },
       "properties": {
         "Address": "Bounded roughly by Harlem Ave., Division, Clyde, and Lake Sts. Oak Park, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Frank Lloyd Wright-Prairie School of Architecture Historic District",
         "wiki": "http://en.wikipedia.org/wiki/Frank_Lloyd_Wright-Prairie_School_of_Architecture_Historic_District"
       },
@@ -355,6 +401,8 @@
       },
       "properties": {
         "Address": "6 Elizabeth Ct. Oak Park, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Mrs. Thomas H. Gale House",
         "wiki": "http://en.wikipedia.org/wiki/Mrs._Thomas_H._Gale_House"
       },
@@ -370,6 +418,8 @@
       },
       "properties": {
         "Address": "1031 W. Chicago Ave. Oak Park, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Walter Gale House",
         "wiki": "http://en.wikipedia.org/wiki/Walter_Gale_House"
       },
@@ -385,6 +435,8 @@
       },
       "properties": {
         "Address": "850 Sheridan Rd. Glencoe, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "William A. Glasner House",
         "wiki": "http://en.wikipedia.org/wiki/William_A._Glasner_House"
       },
@@ -400,6 +452,8 @@
       },
       "properties": {
         "Address": "637 N. Batavia Ave. Batavia, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Mrs. A. W. Gridley House",
         "wiki": "http://en.wikipedia.org/wiki/Mrs._A._W._Gridley_House"
       },
@@ -415,6 +469,8 @@
       },
       "properties": {
         "Address": "5132 S. Woodland Ave. Chicago, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Isadore H. Heller House",
         "wiki": "http://en.wikipedia.org/wiki/Isadore_H._Heller_House"
       },
@@ -430,6 +486,8 @@
       },
       "properties": {
         "Address": "301 S. Kenilworth Elmhurst, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Frank B. Henderson House",
         "wiki": "http://en.wikipedia.org/wiki/Frank_B._Henderson_House"
       },
@@ -445,6 +503,8 @@
       },
       "properties": {
         "Address": "318 North Forest Avenue Oak Park, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Arthur Heurtley House",
         "wiki": "http://en.wikipedia.org/wiki/Arthur_Heurtley_House"
       },
@@ -460,6 +520,8 @@
       },
       "properties": {
         "Address": "687 S. Harrison Ave. Kankakee, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Warren Hickox House",
         "wiki": "http://en.wikipedia.org/wiki/Warren_Hickox_House"
       },
@@ -475,6 +537,8 @@
       },
       "properties": {
         "Address": "153 Little St. Mary Libertyville, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Lloyd Lewis House",
         "wiki": "http://en.wikipedia.org/wiki/Lloyd_Lewis_House"
       },
@@ -490,6 +554,8 @@
       },
       "properties": {
         "Address": "1689 Lake Ave. Highland Park, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "George Madison Millard House",
         "wiki": "http://en.wikipedia.org/wiki/George_Madison_Millard_House"
       },
@@ -505,6 +571,8 @@
       },
       "properties": {
         "Address": "1100 N. Main St. Belvidere, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Pettit Memorial Chapel",
         "wiki": "http://en.wikipedia.org/wiki/Pettit_Memorial_Chapel"
       },
@@ -520,6 +588,8 @@
       },
       "properties": {
         "Address": "Between Harlem Ave. and Des Plaines River with 2 extensions N of Chicago Ave. and 2 extensions S of Lake St. River Forest, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "River Forest Historic District"
       },
       "type": "Feature"
@@ -534,6 +604,8 @@
       },
       "properties": {
         "Address": "Roughly bounded by River and Eagle Sts., Wildwood Ave., and the Kankakee River Kankakee, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Riverview Historic District",
         "wiki": "http://en.wikipedia.org/wiki/Riverview_Historic_District"
       },
@@ -549,6 +621,8 @@
       },
       "properties": {
         "Address": "5757 S. Woodlawn Ave. Chicago, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Frederick C. Robie House",
         "wiki": "http://en.wikipedia.org/wiki/Frederick_C._Robie_House"
       },
@@ -564,6 +638,8 @@
       },
       "properties": {
         "Address": "3213--3219 Calumet Ave. Chicago, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Robert Roloson Houses",
         "wiki": "http://en.wikipedia.org/wiki/Robert_Roloson_Houses"
       },
@@ -579,6 +655,8 @@
       },
       "properties": {
         "Address": "Sylvan Rd. Glencoe, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Sylvan Road Bridge",
         "wiki": "http://en.wikipedia.org/wiki/Sylvan_Road_Bridge"
       },
@@ -594,6 +672,8 @@
       },
       "properties": {
         "Address": "210 Forest Ave. Oak Park, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Frank Thomas House",
         "wiki": "http://en.wikipedia.org/wiki/Frank_Thomas_House"
       },
@@ -609,6 +689,8 @@
       },
       "properties": {
         "Address": "150 Nuttall Road Riverside, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "F.F. Tomek House",
         "wiki": "http://en.wikipedia.org/wiki/F.F._Tomek_House"
       },
@@ -624,6 +706,8 @@
       },
       "properties": {
         "Address": "1445 Sheridan Rd. Highland Park, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Willits House",
         "wiki": "http://en.wikipedia.org/wiki/Willits_House"
       },
@@ -639,6 +723,8 @@
       },
       "properties": {
         "Address": "515 Auvergne Pl. River Forest, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "William H. Winslow House And Stable",
         "wiki": "http://en.wikipedia.org/wiki/William_H._Winslow_House_And_Stable"
       },
@@ -654,6 +740,8 @@
       },
       "properties": {
         "Address": "428 Forest Ave. (house), 951 Chicago Ave. (studio) Oak Park, IL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Frank Lloyd Wright House and Studio",
         "wiki": "http://en.wikipedia.org/wiki/Frank_Lloyd_Wright_House_and_Studio"
       },
@@ -669,6 +757,8 @@
       },
       "properties": {
         "Address": "Oak Park, Illinois",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Edwin H. Cheney House",
         "wiki": "http://en.wikipedia.org/wiki/Edwin_H._Cheney_House"
       },
@@ -684,6 +774,8 @@
       },
       "properties": {
         "Address": "1301 Woodland Ave. West Lafayette, IN",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "John E. and Catherine E. Christian House",
         "wiki": "http://en.wikipedia.org/wiki/John_E._and_Catherine_E._Christian_House"
       },
@@ -699,6 +791,8 @@
       },
       "properties": {
         "Address": "1119 Overlook Rd. Marion, IN",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Woodside",
         "wiki": "http://en.wikipedia.org/wiki/Woodside"
       },
@@ -714,6 +808,8 @@
       },
       "properties": {
         "Address": "600 Fillmore St. Gary, IN",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Wilbur Wynant House",
         "wiki": "http://en.wikipedia.org/wiki/Wilbur_Wynant_House"
       },
@@ -729,6 +825,8 @@
       },
       "properties": {
         "Address": "1907 A Avenue East Oskaloosa, IA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Carroll Alsop House",
         "wiki": "http://en.wikipedia.org/wiki/Carroll_Alsop_House"
       },
@@ -744,6 +842,8 @@
       },
       "properties": {
         "Address": "4 S. Federal Ave. Mason City, IA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "City National Bank Building (Iowa)",
         "wiki": "http://en.wikipedia.org/wiki/City_National_Bank_Building_(Iowa)"
       },
@@ -759,6 +859,8 @@
       },
       "properties": {
         "Address": "3400 Adel St. SE Marion, IA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Douglas and Charlotte Grant House",
         "wiki": "http://en.wikipedia.org/wiki/Douglas_and_Charlotte_Grant_House"
       },
@@ -774,6 +876,8 @@
       },
       "properties": {
         "Address": "511 N. Park Ave. Oskaloosa, IA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Jack Lamberson House",
         "wiki": "http://en.wikipedia.org/wiki/Jack_Lamberson_House"
       },
@@ -789,6 +893,8 @@
       },
       "properties": {
         "Address": "Roughly bounded by N. 46th St., Georgia Ave., Washington Ave. and S. 2nd St. Mason City, IA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Mason City Downtown Historic District"
       },
       "type": "Feature"
@@ -803,6 +909,8 @@
       },
       "properties": {
         "Address": "1107 Court St. Charles City, IA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Alvin Miller House",
         "wiki": "http://en.wikipedia.org/wiki/Alvin_Miller_House"
       },
@@ -818,6 +926,8 @@
       },
       "properties": {
         "Address": "15 W. State St. Mason City, IA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Park Inn Hotel",
         "wiki": "http://en.wikipedia.org/wiki/Park_Inn_Hotel"
       },
@@ -833,6 +943,8 @@
       },
       "properties": {
         "Address": "311 1st St., SE Mason City, IA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Dr. G. C. Stockman House",
         "wiki": "http://en.wikipedia.org/wiki/Dr._G._C._Stockman_House"
       },
@@ -848,6 +960,8 @@
       },
       "properties": {
         "Address": "1701 Woodfield Rd. Marshalltown, IA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Robert H. Sunday House",
         "wiki": "http://en.wikipedia.org/wiki/Robert_H._Sunday_House"
       },
@@ -863,6 +977,8 @@
       },
       "properties": {
         "Address": "6880 N.W. Beaver Dr. Johnston, IA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Paul J. and Ida Trier House",
         "wiki": "http://en.wikipedia.org/wiki/Paul_J._and_Ida_Trier_House"
       },
@@ -878,6 +994,8 @@
       },
       "properties": {
         "Address": "Off SR W35, NW of Quasqueton Quasqueton, IA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Lowell E. Walter House",
         "wiki": "http://en.wikipedia.org/wiki/Lowell_E._Walter_House"
       },
@@ -893,6 +1011,8 @@
       },
       "properties": {
         "Address": "10036,10069,11090,11108 and 11185 Hawthorne Dr. Charleston Township, MI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "The Acres",
         "wiki": "http://en.wikipedia.org/wiki/The_Acres"
       },
@@ -908,6 +1028,8 @@
       },
       "properties": {
         "Address": "1925 N. Woodward Ave. Bloomfield Hills, MI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Gregor S. and Elizabeth B. Affleck House",
         "wiki": "http://en.wikipedia.org/wiki/Gregor_S._and_Elizabeth_B._Affleck_House"
       },
@@ -923,6 +1045,8 @@
       },
       "properties": {
         "Address": "2410 Hulett Rd., Meridian Township, Okemos, MI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Goetsch--Winckler House",
         "wiki": "http://en.wikipedia.org/wiki/Goetsch--Winckler_House"
       },
@@ -938,6 +1062,8 @@
       },
       "properties": {
         "Address": "Bounded by Michigan Ave. on the N, Pleasant St. on the S, Union Ave. on the E, and Clarendon Pl. and Jefferson Ave. Grand Rapids, MI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Heritage Hill Historic District",
         "wiki": "http://en.wikipedia.org/wiki/Heritage_Hill_Historic_District"
       },
@@ -953,6 +1079,8 @@
       },
       "properties": {
         "Address": "227 Orchard Hills Dr. Ann Arbor, MI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "William B. and Mary Shuford Palmer House",
         "wiki": "http://en.wikipedia.org/wiki/William_B._and_Mary_Shuford_Palmer_House"
       },
@@ -968,6 +1096,8 @@
       },
       "properties": {
         "Address": "5045 Ponvalley Rd., Bloomfield Township Pontiac, MI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Melvyn Maxwell and Sara Stein Smith House",
         "wiki": "http://en.wikipedia.org/wiki/Melvyn_Maxwell_and_Sara_Stein_Smith_House"
       },
@@ -983,6 +1113,8 @@
       },
       "properties": {
         "Address": "12305 Beck Rd. Plymouth, MI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Carlton D. Wall House",
         "wiki": "http://en.wikipedia.org/wiki/Carlton_D._Wall_House"
       },
@@ -998,6 +1130,8 @@
       },
       "properties": {
         "Address": "801 Pine St. Hastings, MN",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Fasbender Clinic",
         "wiki": "http://en.wikipedia.org/wiki/Fasbender_Clinic"
       },
@@ -1013,6 +1147,8 @@
       },
       "properties": {
         "Address": "202 Cloquet Ave. Cloquet, MN",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "R.W. Lindholm Service Station"
       },
       "type": "Feature"
@@ -1027,6 +1163,8 @@
       },
       "properties": {
         "Address": "2801 Burnham Blvd. Minneapolis, MN",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Frieda and Henry J. Neils House",
         "wiki": "http://en.wikipedia.org/wiki/Frieda_and_Henry_J._Neils_House"
       },
@@ -1042,6 +1180,8 @@
       },
       "properties": {
         "Address": "255 Bedford St., SE Minneapolis, MN",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Malcolm Willey House",
         "wiki": "http://en.wikipedia.org/wiki/Malcolm_Willey_House"
       },
@@ -1057,6 +1197,8 @@
       },
       "properties": {
         "Address": "120 N. Ballas Rd. Kirkwood, MO",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Kraus House",
         "wiki": "http://en.wikipedia.org/wiki/Kraus_House"
       },
@@ -1072,6 +1214,8 @@
       },
       "properties": {
         "Address": "865 Masonridge Rd. St. Louis, MO",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Theodore A. Pappas House",
         "wiki": "http://en.wikipedia.org/wiki/Theodore_A._Pappas_House"
       },
@@ -1087,6 +1231,8 @@
       },
       "properties": {
         "Address": "Irregular pattern along East Ave. from Probert St. to Alexander St. Rochester, NY",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "East Avenue Historic District",
         "wiki": "http://en.wikipedia.org/wiki/East_Avenue_Historic_District"
       },
@@ -1102,6 +1248,8 @@
       },
       "properties": {
         "Address": "6472-6482 Lakeshore Rd. Derby, NY",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Graycliff",
         "wiki": "http://en.wikipedia.org/wiki/Graycliff"
       },
@@ -1117,6 +1265,8 @@
       },
       "properties": {
         "Address": "1071 Fifth Ave. New York, NY",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Solomon R. Guggenheim Museum",
         "wiki": "http://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum"
       },
@@ -1132,6 +1282,8 @@
       },
       "properties": {
         "Address": "123 Jewett Pkwy. Buffalo, NY",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "D. D. Martin House Complex",
         "wiki": "http://en.wikipedia.org/wiki/D._D._Martin_House_Complex"
       },
@@ -1147,6 +1299,8 @@
       },
       "properties": {
         "Address": "125 Jewett Pkwy. Buffalo, NY",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Darwin D. Martin House",
         "wiki": "http://en.wikipedia.org/wiki/Darwin_D._Martin_House"
       },
@@ -1162,6 +1316,8 @@
       },
       "properties": {
         "Address": "Roughly bounded by Parkside Ave., Amherst St., Colvin Ave., NY Central RR tracks, Main St., and Humboldt Ave. Buffalo, NY",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Parkside East Historic District",
         "wiki": "http://en.wikipedia.org/wiki/Parkside_East_Historic_District"
       },
@@ -1177,6 +1333,8 @@
       },
       "properties": {
         "Address": "1 Rawson Woods Circle. Cincinnati, OH",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Cedric G. and Patricia Neils Boulter House",
         "wiki": "http://en.wikipedia.org/wiki/Cedric_G._and_Patricia_Neils_Boulter_House"
       },
@@ -1192,6 +1350,8 @@
       },
       "properties": {
         "Address": "S of Wellington on OH 58, Wellington Township Wellington, OH",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Mosher House",
         "wiki": "http://en.wikipedia.org/wiki/Mosher_House"
       },
@@ -1207,6 +1367,8 @@
       },
       "properties": {
         "Address": "2203 River Rd. Willoughby Hills, OH",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Louis A. Penfield House",
         "wiki": "http://en.wikipedia.org/wiki/Louis_A._Penfield_House"
       },
@@ -1222,6 +1384,8 @@
       },
       "properties": {
         "Address": "6980 Knoll Rd. Cincinnati, OH",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Gerald B. and Beverley Tonkens House",
         "wiki": "http://en.wikipedia.org/wiki/Gerald_B._and_Beverley_Tonkens_House"
       },
@@ -1237,6 +1401,8 @@
       },
       "properties": {
         "Address": "1340 E. High St. Springfield, OH",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Westcott House",
         "wiki": "http://en.wikipedia.org/wiki/Westcott_House"
       },
@@ -1252,6 +1418,8 @@
       },
       "properties": {
         "Address": "6th St. and Dewey Ave. Bartlesville, OK",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Price Tower",
         "wiki": "http://en.wikipedia.org/wiki/Price_Tower"
       },
@@ -1267,6 +1435,8 @@
       },
       "properties": {
         "Address": "3704 S. Birmingham St. Tulsa, OK",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Westhope",
         "wiki": "http://en.wikipedia.org/wiki/Westhope"
       },
@@ -1282,6 +1452,8 @@
       },
       "properties": {
         "Address": "E of Millerton on U.S. 70 Millerton, OK",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Wheelock Academy",
         "wiki": "http://en.wikipedia.org/wiki/Wheelock_Academy"
       },
@@ -1297,6 +1469,8 @@
       },
       "properties": {
         "Address": "8231 Old York Road, Elkins Park, PA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Beth Sholom Congregation (Elkins Park, Pennsylvania)",
         "wiki": "http://en.wikipedia.org/wiki/Beth_Sholom_Congregation_(Elkins_Park,_Pennsylvania)"
       },
@@ -1312,6 +1486,8 @@
       },
       "properties": {
         "Address": "W of PA 381 Mill Run, PA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Fallingwater",
         "wiki": "http://en.wikipedia.org/wiki/Fallingwater"
       },
@@ -1327,6 +1503,8 @@
       },
       "properties": {
         "Address": "723 Kentuck Road, Chalk Hill, PA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Kentuck Knob",
         "wiki": "http://en.wikipedia.org/wiki/Kentuck_Knob"
       },
@@ -1341,6 +1519,8 @@
         "type": "Point"
       },
       "properties": {
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Auldbrass Plantation",
         "wiki": "http://en.wikipedia.org/wiki/Auldbrass_Plantation"
       },
@@ -1356,6 +1536,8 @@
       },
       "properties": {
         "Address": "9 W. Avondale Dr. Greenville, SC",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Broad Margin",
         "wiki": "http://en.wikipedia.org/wiki/Broad_Margin"
       },
@@ -1371,6 +1553,8 @@
       },
       "properties": {
         "Address": "100-500 Blks of E. Fifth Ave. Kenbridge, VA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Fifth Avenue Historic District",
         "wiki": "http://en.wikipedia.org/wiki/Fifth_Avenue_Historic_District"
       },
@@ -1386,6 +1570,8 @@
       },
       "properties": {
         "Address": "E of Accotink off U.S. 1 Accotink, VA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Pope-Leighey House",
         "wiki": "http://en.wikipedia.org/wiki/Pope-Leighey_House"
       },
@@ -1401,6 +1587,8 @@
       },
       "properties": {
         "Address": "2202 212th Ave. SE. Issaquah, WA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Brandes House",
         "wiki": "http://en.wikipedia.org/wiki/Brandes_House"
       },
@@ -1416,6 +1604,8 @@
       },
       "properties": {
         "Address": "18971 Edgecliff Dr. SW. Seattle, WA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Tracy House",
         "wiki": "http://en.wikipedia.org/wiki/Tracy_House"
       },
@@ -1431,6 +1621,8 @@
       },
       "properties": {
         "Address": "316 S. Church St. Richland Center, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "A. D. German Warehouse",
         "wiki": "http://en.wikipedia.org/wiki/A._D._German_Warehouse"
       },
@@ -1446,6 +1638,8 @@
       },
       "properties": {
         "Address": "7111 N. Barnett Ln. Fox Point, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Allbert and Edith Adelman House",
         "wiki": "http://en.wikipedia.org/wiki/Allbert_and_Edith_Adelman_House"
       },
@@ -1461,6 +1655,8 @@
       },
       "properties": {
         "Address": "W. Burnham St. Milwaukee, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "American System Built Homes-Burnham Street District",
         "wiki": "http://en.wikipedia.org/wiki/American_System_Built_Homes-Burnham_Street_District"
       },
@@ -1476,6 +1672,8 @@
       },
       "properties": {
         "Address": "9400 W. Congress St. Wauwatosa, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Annunciation Greek Orthodox Church",
         "wiki": "http://en.wikipedia.org/wiki/Annunciation_Greek_Orthodox_Church"
       },
@@ -1491,6 +1689,8 @@
       },
       "properties": {
         "Address": "2420 N. Terrace Ave. Milwaukee, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Frederick C. Bogk House",
         "wiki": "http://en.wikipedia.org/wiki/Frederick_C._Bogk_House"
       },
@@ -1506,6 +1706,8 @@
       },
       "properties": {
         "Address": "900 University Bay Dr. Shorewood Hills, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "First Unitarian Society",
         "wiki": "http://en.wikipedia.org/wiki/First_Unitarian_Society"
       },
@@ -1521,6 +1723,8 @@
       },
       "properties": {
         "Address": "120 Ely Pl. Madison, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Eugene A. Gilmore House",
         "wiki": "http://en.wikipedia.org/wiki/Eugene_A._Gilmore_House"
       },
@@ -1536,6 +1740,8 @@
       },
       "properties": {
         "Address": "1319 S. Main St. Racine, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Thomas P. Hardy House",
         "wiki": "http://en.wikipedia.org/wiki/Thomas_P._Hardy_House"
       },
@@ -1551,6 +1757,8 @@
       },
       "properties": {
         "Address": "441 Toepfer Ave. Madison, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Herbert A. Jacobs House",
         "wiki": "http://en.wikipedia.org/wiki/Herbert_A._Jacobs_House"
       },
@@ -1566,6 +1774,8 @@
       },
       "properties": {
         "Address": "441 Toepfer Avenue Madison, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Herbert and Katherine Jacobs, First House",
         "wiki": "http://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs,_First_House"
       },
@@ -1581,6 +1791,8 @@
       },
       "properties": {
         "Address": "3995 Shawn Trail Middleton, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Herbert and Katherine Jacobs, Second House",
         "wiki": "http://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs,_Second_House"
       },
@@ -1596,6 +1808,8 @@
       },
       "properties": {
         "Address": "3995 Shawn Trail Madison, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Herbert Jacobs, Second House",
         "wiki": "http://en.wikipedia.org/wiki/Herbert_Jacobs,_Second_House"
       },
@@ -1611,6 +1825,8 @@
       },
       "properties": {
         "Address": "3455 S. Shore Dr. Delavan, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "A.P. Johnson House",
         "wiki": "http://en.wikipedia.org/wiki/A.P._Johnson_House"
       },
@@ -1626,6 +1842,8 @@
       },
       "properties": {
         "Address": "33 E. Four Mile Rd. Wind Point, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Herbert F. Johnson House",
         "wiki": "http://en.wikipedia.org/wiki/Herbert_F._Johnson_House"
       },
@@ -1641,6 +1859,8 @@
       },
       "properties": {
         "Address": "1525 Howe St. Racine, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Johnson Wax Headquarters",
         "wiki": "http://en.wikipedia.org/wiki/Johnson_Wax_Headquarters"
       },
@@ -1656,6 +1876,8 @@
       },
       "properties": {
         "Address": "3335 S. Shore Dr. Delavan Lake, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Fred B. Jones Estate",
         "wiki": "http://en.wikipedia.org/wiki/Fred_B._Jones_Estate"
       },
@@ -1671,6 +1893,8 @@
       },
       "properties": {
         "Address": "22 N. Butler St. Madison, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Robert M. Lamp House",
         "wiki": "http://en.wikipedia.org/wiki/Robert_M._Lamp_House"
       },
@@ -1686,6 +1910,8 @@
       },
       "properties": {
         "Address": "Dell Ave. Lake Delton, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Seth Peterson Cottage",
         "wiki": "http://en.wikipedia.org/wiki/Seth_Peterson_Cottage"
       },
@@ -1701,6 +1927,8 @@
       },
       "properties": {
         "Address": "332 E. Linden St. Jefferson, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Richard C. Smith House",
         "wiki": "http://en.wikipedia.org/wiki/Richard_C._Smith_House"
       },
@@ -1716,6 +1944,8 @@
       },
       "properties": {
         "Address": "2 mi. S of Spring Green on WI 23 Spring Green, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Taliesin (studio)",
         "wiki": "http://en.wikipedia.org/wiki/Taliesin_(studio)"
       },
@@ -1731,6 +1961,8 @@
       },
       "properties": {
         "Address": "S of Spring Green off WI 23 Spring Green, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Unity Chapel",
         "wiki": "http://en.wikipedia.org/wiki/Unity_Chapel"
       },
@@ -1746,6 +1978,8 @@
       },
       "properties": {
         "Address": "904 Grand Ave. Wausau, WI",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Duey and Julia Wright House",
         "wiki": "http://en.wikipedia.org/wiki/Duey_and_Julia_Wright_House"
       },
@@ -1761,6 +1995,8 @@
       },
       "properties": {
         "Address": "117 Riverview Dr. Florence, AL",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Rosenbaum House",
         "wiki": "http://en.wikipedia.org/wiki/Rosenbaum_House"
       },
@@ -1776,7 +2012,9 @@
       },
       "properties": {
         "Address": "27 Keney Terr. Hartford, CT",
-        "Title": "Dr. Frank T. Simpson House"
+        "Title": "Dr. Frank T. Simpson House",
+        "marker-size": "small",
+        "marker-symbol": "building"
       },
       "type": "Feature"
     },
@@ -1790,6 +2028,8 @@
       },
       "properties": {
         "Address": "619 Shipley Rd. Wilmington, DE",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Laurel (Wilmington, Delaware)",
         "wiki": "http://en.wikipedia.org/wiki/Laurel_(Wilmington,_Delaware)"
       },
@@ -1805,6 +2045,8 @@
       },
       "properties": {
         "Address": "255 N. Roosevelt St. Wichita, KS",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Henry J. Allen House",
         "wiki": "http://en.wikipedia.org/wiki/Henry_J._Allen_House"
       },
@@ -1820,6 +2062,8 @@
       },
       "properties": {
         "Address": "509 Shelby St. Frankfort, KY",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Jessie R. Ziegler Residence",
         "wiki": "http://en.wikipedia.org/wiki/Jessie_R._Ziegler_Residence"
       },
@@ -1835,6 +2079,8 @@
       },
       "properties": {
         "Address": "7927 Deepwell Dr. Bethesda, MD",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Robert Llewellyn Wright House",
         "wiki": "http://en.wikipedia.org/wiki/Robert_Llewellyn_Wright_House"
       },
@@ -1850,6 +2096,8 @@
       },
       "properties": {
         "Address": "38 Shays St. Amherst, MA",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Theodore Baird Residence",
         "wiki": "http://en.wikipedia.org/wiki/Theodore_Baird_Residence"
       },
@@ -1865,6 +2113,8 @@
       },
       "properties": {
         "Address": "306 Glen Way Jackson, MS",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Fountainhead (Jackson, Mississippi)",
         "wiki": "http://en.wikipedia.org/wiki/Fountainhead_(Jackson,_Mississippi)"
       },
@@ -1880,6 +2130,8 @@
       },
       "properties": {
         "Address": "602 Norris Ave. McCook, NE",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "H. P. Stutton House",
         "wiki": "http://en.wikipedia.org/wiki/H._P._Stutton_House"
       },
@@ -1895,6 +2147,8 @@
       },
       "properties": {
         "Address": "223 Heather St. Manchester, NH",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Zimmerman House",
         "wiki": "http://en.wikipedia.org/wiki/Zimmerman_House"
       },
@@ -1910,6 +2164,8 @@
       },
       "properties": {
         "Address": "879 W. Main St. Siverton, OR",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Gordon House (Oregon)",
         "wiki": "http://en.wikipedia.org/wiki/Gordon_House_(Oregon)"
       },
@@ -1925,6 +2181,8 @@
       },
       "properties": {
         "Address": "334 N. Crest Rd. Chattanooga, TN",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Seamour and Gerte Shavin House",
         "wiki": "http://en.wikipedia.org/wiki/Seamour_and_Gerte_Shavin_House"
       },
@@ -1940,6 +2198,8 @@
       },
       "properties": {
         "Address": "5588 Greybull Hwy. Cody, WY",
+        "marker-size": "small",
+        "marker-symbol": "building",
         "title": "Quintin Blair House",
         "wiki": "http://en.wikipedia.org/wiki/Quintin_Blair_House"
       },
