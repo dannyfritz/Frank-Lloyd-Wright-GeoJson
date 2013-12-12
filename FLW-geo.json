@@ -1,0 +1,1950 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -111.9394624,
+          33.4160365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "NE Corner of Mill and Apache. Tempe, AZ",
+        "title": "Gammage Auditorium",
+        "wiki": "http://en.wikipedia.org/wiki/Gammage_Auditorium"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.8480157,
+          33.5824009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "N of jct. of Shea Blvd. and 108th St. Scottsdale, AZ",
+        "title": "Taliesin West",
+        "wiki": "http://en.wikipedia.org/wiki/Taliesin_West"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.4022447,
+          34.0684821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "332 N.Rodeo Dr. Beverly Hills, CA",
+        "title": "Anderton Court Shops",
+        "wiki": "http://en.wikipedia.org/wiki/Anderton_Court_Shops"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.2950123,
+          34.1017212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "4800 Hollywood Blvd. Los Angeles, CA",
+        "title": "Barnsdall Park",
+        "wiki": "http://en.wikipedia.org/wiki/Barnsdall_Park"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.2930078,
+          34.1161781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2607 Glendower Ave. Los Angeles, CA",
+        "title": "Ennis House",
+        "wiki": "http://en.wikipedia.org/wiki/Ennis_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.338582,
+          34.1056359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1962 Glencoe Way Los Angeles, CA",
+        "title": "Samuel Freeman House",
+        "wiki": "http://en.wikipedia.org/wiki/Samuel_Freeman_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.163759,
+          37.415904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "737 Frenchman's Rd. Palo Alto, CA",
+        "title": "Hanna-Honeycomb House",
+        "wiki": "http://en.wikipedia.org/wiki/Hanna-Honeycomb_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.5285633,
+          37.9966964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Jct. of N. San Pedro Rd. and Civic Center Dr. San Rafael, CA",
+        "title": "Marin County Civic Center",
+        "wiki": "http://en.wikipedia.org/wiki/Marin_County_Civic_Center"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.161825,
+          34.155397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "645 Prospect Crescent Pasadena, CA",
+        "title": "Millard House",
+        "wiki": "http://en.wikipedia.org/wiki/Millard_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.367117,
+          34.1008769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "8161 Hollywood Blvd. Los Angeles, CA",
+        "title": "Storer House",
+        "wiki": "http://en.wikipedia.org/wiki/Storer_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.94990109999999,
+          28.0331766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "McDonald and Johnson Aves. Lakeland, FL",
+        "title": "Florida Southern College",
+        "wiki": "http://en.wikipedia.org/wiki/Florida_Southern_College"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.5157535,
+          27.6648274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "N of Tallahassee at 3117 Okeeheepkee Rd. Tallahassee vicintiy, FL",
+        "title": "Lewis House (Tallahassee, Florida)",
+        "wiki": "http://en.wikipedia.org/wiki/Lewis_House_(Tallahassee,_Florida)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.205508,
+          43.625435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1415 Fort St. Boise, ID",
+        "title": "Judge Charles P. McCarthy House",
+        "wiki": "http://en.wikipedia.org/wiki/Judge_Charles_P._McCarthy_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -114.9555348,
+          42.91523979999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "SE of Bliss Bliss, ID",
+        "title": "Archie Teater Studio",
+        "wiki": "http://en.wikipedia.org/wiki/Archie_Teater_Studio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.788928,
+          42.187325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1923 Lake Ave. Highland Park, IL",
+        "title": "Mary W. Adams House",
+        "wiki": "http://en.wikipedia.org/wiki/Mary_W._Adams_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.664749,
+          42.016584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "7415 N. Sheridan Rd. Chicago, IL",
+        "title": "Emil Bach House",
+        "wiki": "http://en.wikipedia.org/wiki/Emil_Bach_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.694374,
+          42.078418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "507 Lake Ave. Wilmette, IL",
+        "title": "Frank J. Baker House",
+        "wiki": "http://en.wikipedia.org/wiki/Frank_J._Baker_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.70926299999999,
+          42.086929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "205 Essex Rd. Kenilworth, IL",
+        "title": "Hiram Baldwin House",
+        "wiki": "http://en.wikipedia.org/wiki/Hiram_Baldwin_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6276039,
+          41.9076608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1365 N. Astor St. Chicago, IL",
+        "title": "James Charnley House",
+        "wiki": "http://en.wikipedia.org/wiki/James_Charnley_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.828222,
+          41.820815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "290 and 300 Scottswood Rd., 281 Bloomingbank Rd., and 336 Coonley St. Riverside, IL",
+        "title": "Coonley House",
+        "wiki": "http://en.wikipedia.org/wiki/Coonley_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.6575374,
+          39.7940084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "301 Lawrence Ave. Springfield, IL",
+        "title": "Dana-Thomas House State Historic Site",
+        "wiki": "http://en.wikipedia.org/wiki/Dana-Thomas_House_State_Historic_Site"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.3128617,
+          41.87169979999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1511 S. Batavia Ave. Geneva, IL",
+        "title": "Fabyan Villa",
+        "wiki": "http://en.wikipedia.org/wiki/Fabyan_Villa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.79071549999999,
+          41.8885187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Bounded roughly by Harlem Ave., Division, Clyde, and Lake Sts. Oak Park, IL",
+        "title": "Frank Lloyd Wright-Prairie School of Architecture Historic District",
+        "wiki": "http://en.wikipedia.org/wiki/Frank_Lloyd_Wright-Prairie_School_of_Architecture_Historic_District"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.798896,
+          41.891699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "6 Elizabeth Ct. Oak Park, IL",
+        "title": "Mrs. Thomas H. Gale House",
+        "wiki": "http://en.wikipedia.org/wiki/Mrs._Thomas_H._Gale_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.801867,
+          41.893911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1031 W. Chicago Ave. Oak Park, IL",
+        "title": "Walter Gale House",
+        "wiki": "http://en.wikipedia.org/wiki/Walter_Gale_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.75585099999999,
+          42.141315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "850 Sheridan Rd. Glencoe, IL",
+        "title": "William A. Glasner House",
+        "wiki": "http://en.wikipedia.org/wiki/William_A._Glasner_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.3139939,
+          41.859798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "637 N. Batavia Ave. Batavia, IL",
+        "title": "Mrs. A. W. Gridley House",
+        "wiki": "http://en.wikipedia.org/wiki/Mrs._A._W._Gridley_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.59670709999999,
+          41.8013348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "5132 S. Woodland Ave. Chicago, IL",
+        "title": "Isadore H. Heller House",
+        "wiki": "http://en.wikipedia.org/wiki/Isadore_H._Heller_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.93797599999999,
+          41.892109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "301 S. Kenilworth Elmhurst, IL",
+        "title": "Frank B. Henderson House",
+        "wiki": "http://en.wikipedia.org/wiki/Frank_B._Henderson_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.79966399999999,
+          41.892695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "318 North Forest Avenue Oak Park, IL",
+        "title": "Arthur Heurtley House",
+        "wiki": "http://en.wikipedia.org/wiki/Arthur_Heurtley_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.861606,
+          41.112282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "687 S. Harrison Ave. Kankakee, IL",
+        "title": "Warren Hickox House",
+        "wiki": "http://en.wikipedia.org/wiki/Warren_Hickox_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.93194869999999,
+          42.2585152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "153 Little St. Mary Libertyville, IL",
+        "title": "Lloyd Lewis House",
+        "wiki": "http://en.wikipedia.org/wiki/Lloyd_Lewis_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7855822,
+          42.1830587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1689 Lake Ave. Highland Park, IL",
+        "title": "George Madison Millard House",
+        "wiki": "http://en.wikipedia.org/wiki/George_Madison_Millard_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.84893699999999,
+          42.2683741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1100 N. Main St. Belvidere, IL",
+        "title": "Pettit Memorial Chapel",
+        "wiki": "http://en.wikipedia.org/wiki/Pettit_Memorial_Chapel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.8258369,
+          41.8880917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Between Harlem Ave. and Des Plaines River with 2 extensions N of Chicago Ave. and 2 extensions S of Lake St. River Forest, IL",
+        "title": "River Forest Historic District"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.3462677,
+          41.3378844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Roughly bounded by River and Eagle Sts., Wildwood Ave., and the Kankakee River Kankakee, IL",
+        "title": "Riverview Historic District",
+        "wiki": "http://en.wikipedia.org/wiki/Riverview_Historic_District"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.595936,
+          41.78993699999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "5757 S. Woodlawn Ave. Chicago, IL",
+        "title": "Frederick C. Robie House",
+        "wiki": "http://en.wikipedia.org/wiki/Frederick_C._Robie_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.617857,
+          41.835968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "3213--3219 Calumet Ave. Chicago, IL",
+        "title": "Robert Roloson Houses",
+        "wiki": "http://en.wikipedia.org/wiki/Robert_Roloson_Houses"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.76333300000002,
+          42.1443735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Sylvan Rd. Glencoe, IL",
+        "title": "Sylvan Road Bridge",
+        "wiki": "http://en.wikipedia.org/wiki/Sylvan_Road_Bridge"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.799797,
+          41.89056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "210 Forest Ave. Oak Park, IL",
+        "title": "Frank Thomas House",
+        "wiki": "http://en.wikipedia.org/wiki/Frank_Thomas_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.817459,
+          41.8324179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "150 Nuttall Road Riverside, IL",
+        "title": "F.F. Tomek House",
+        "wiki": "http://en.wikipedia.org/wiki/F.F._Tomek_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.787087,
+          42.178841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1445 Sheridan Rd. Highland Park, IL",
+        "title": "Willits House",
+        "wiki": "http://en.wikipedia.org/wiki/Willits_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.828566,
+          41.8886899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "515 Auvergne Pl. River Forest, IL",
+        "title": "William H. Winslow House And Stable",
+        "wiki": "http://en.wikipedia.org/wiki/William_H._Winslow_House_And_Stable"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.8003042,
+          41.8938901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "428 Forest Ave. (house), 951 Chicago Ave. (studio) Oak Park, IL",
+        "title": "Frank Lloyd Wright House and Studio",
+        "wiki": "http://en.wikipedia.org/wiki/Frank_Lloyd_Wright_House_and_Studio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7845025,
+          41.8850317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Oak Park, Illinois",
+        "title": "Edwin H. Cheney House",
+        "wiki": "http://en.wikipedia.org/wiki/Edwin_H._Cheney_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.91652599999999,
+          40.43854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1301 Woodland Ave. West Lafayette, IN",
+        "title": "John E. and Catherine E. Christian House",
+        "wiki": "http://en.wikipedia.org/wiki/John_E._and_Catherine_E._Christian_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.674038,
+          40.5888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1119 Overlook Rd. Marion, IN",
+        "title": "Woodside",
+        "wiki": "http://en.wikipedia.org/wiki/Woodside"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.35123,
+          41.5999709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "600 Fillmore St. Gary, IN",
+        "title": "Wilbur Wynant House",
+        "wiki": "http://en.wikipedia.org/wiki/Wilbur_Wynant_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.62364430000001,
+          41.2962327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1907 A Avenue East Oskaloosa, IA",
+        "title": "Carroll Alsop House",
+        "wiki": "http://en.wikipedia.org/wiki/Carroll_Alsop_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.20112379999999,
+          43.1315423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "4 S. Federal Ave. Mason City, IA",
+        "title": "City National Bank Building (Iowa)",
+        "wiki": "http://en.wikipedia.org/wiki/City_National_Bank_Building_(Iowa)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.62260599999999,
+          42.011228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "3400 Adel St. SE Marion, IA",
+        "title": "Douglas and Charlotte Grant House",
+        "wiki": "http://en.wikipedia.org/wiki/Douglas_and_Charlotte_Grant_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.6273385,
+          41.2992547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "511 N. Park Ave. Oskaloosa, IA",
+        "title": "Jack Lamberson House",
+        "wiki": "http://en.wikipedia.org/wiki/Jack_Lamberson_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.1847312,
+          43.1500824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Roughly bounded by N. 46th St., Georgia Ave., Washington Ave. and S. 2nd St. Mason City, IA",
+        "title": "Mason City Downtown Historic District"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.68445,
+          43.067504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1107 Court St. Charles City, IA",
+        "title": "Alvin Miller House",
+        "wiki": "http://en.wikipedia.org/wiki/Alvin_Miller_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.20167099999999,
+          43.151573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "15 W. State St. Mason City, IA",
+        "title": "Park Inn Hotel",
+        "wiki": "http://en.wikipedia.org/wiki/Park_Inn_Hotel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.19606320000001,
+          43.1508702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "311 1st St., SE Mason City, IA",
+        "title": "Dr. G. C. Stockman House",
+        "wiki": "http://en.wikipedia.org/wiki/Dr._G._C._Stockman_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.9270447,
+          42.0270457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1701 Woodfield Rd. Marshalltown, IA",
+        "title": "Robert H. Sunday House",
+        "wiki": "http://en.wikipedia.org/wiki/Robert_H._Sunday_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.689836,
+          41.68597500000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "6880 N.W. Beaver Dr. Johnston, IA",
+        "title": "Paul J. and Ida Trier House",
+        "wiki": "http://en.wikipedia.org/wiki/Paul_J._and_Ida_Trier_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.7610035,
+          42.39443199999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Off SR W35, NW of Quasqueton Quasqueton, IA",
+        "title": "Lowell E. Walter House",
+        "wiki": "http://en.wikipedia.org/wiki/Lowell_E._Walter_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.4100375,
+          42.26053479999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "10036,10069,11090,11108 and 11185 Hawthorne Dr. Charleston Township, MI",
+        "title": "The Acres",
+        "wiki": "http://en.wikipedia.org/wiki/The_Acres"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.26712490000001,
+          42.60695880000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1925 N. Woodward Ave. Bloomfield Hills, MI",
+        "title": "Gregor S. and Elizabeth B. Affleck House",
+        "wiki": "http://en.wikipedia.org/wiki/Gregor_S._and_Elizabeth_B._Affleck_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.43925999999999,
+          42.707999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2410 Hulett Rd., Meridian Township, Okemos, MI",
+        "title": "Goetsch--Winckler House",
+        "wiki": "http://en.wikipedia.org/wiki/Goetsch--Winckler_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.6618848,
+          42.9104717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Bounded by Michigan Ave. on the N, Pleasant St. on the S, Union Ave. on the E, and Clarendon Pl. and Jefferson Ave. Grand Rapids, MI",
+        "title": "Heritage Hill Historic District",
+        "wiki": "http://en.wikipedia.org/wiki/Heritage_Hill_Historic_District"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.715852,
+          42.278551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "227 Orchard Hills Dr. Ann Arbor, MI",
+        "title": "William B. and Mary Shuford Palmer House",
+        "wiki": "http://en.wikipedia.org/wiki/William_B._and_Mary_Shuford_Palmer_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.27097499999999,
+          42.564697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "5045 Ponvalley Rd., Bloomfield Township Pontiac, MI",
+        "title": "Melvyn Maxwell and Sara Stein Smith House",
+        "wiki": "http://en.wikipedia.org/wiki/Melvyn_Maxwell_and_Sara_Stein_Smith_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.511262,
+          42.371241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "12305 Beck Rd. Plymouth, MI",
+        "title": "Carlton D. Wall House",
+        "wiki": "http://en.wikipedia.org/wiki/Carlton_D._Wall_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.862471,
+          44.737927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "801 Pine St. Hastings, MN",
+        "title": "Fasbender Clinic",
+        "wiki": "http://en.wikipedia.org/wiki/Fasbender_Clinic"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.4609651,
+          46.72167779999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "202 Cloquet Ave. Cloquet, MN",
+        "title": "R.W. Lindholm Service Station"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.31763199999999,
+          44.958142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2801 Burnham Blvd. Minneapolis, MN",
+        "title": "Frieda and Henry J. Neils House",
+        "wiki": "http://en.wikipedia.org/wiki/Frieda_and_Henry_J._Neils_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.208615,
+          44.960464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "255 Bedford St., SE Minneapolis, MN",
+        "title": "Malcolm Willey House",
+        "wiki": "http://en.wikipedia.org/wiki/Malcolm_Willey_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.44188899999999,
+          38.582562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "120 N. Ballas Rd. Kirkwood, MO",
+        "title": "Kraus House",
+        "wiki": "http://en.wikipedia.org/wiki/Kraus_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.48378,
+          38.636916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "865 Masonridge Rd. St. Louis, MO",
+        "title": "Theodore A. Pappas House",
+        "wiki": "http://en.wikipedia.org/wiki/Theodore_A._Pappas_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.59534289999999,
+          43.1532481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Irregular pattern along East Ave. from Probert St. to Alexander St. Rochester, NY",
+        "title": "East Avenue Historic District",
+        "wiki": "http://en.wikipedia.org/wiki/East_Avenue_Historic_District"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.971369,
+          42.7105869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "6472-6482 Lakeshore Rd. Derby, NY",
+        "title": "Graycliff",
+        "wiki": "http://en.wikipedia.org/wiki/Graycliff"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.95888839999999,
+          40.7830178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1071 Fifth Ave. New York, NY",
+        "title": "Solomon R. Guggenheim Museum",
+        "wiki": "http://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.8478114,
+          42.9358824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "123 Jewett Pkwy. Buffalo, NY",
+        "title": "D. D. Martin House Complex",
+        "wiki": "http://en.wikipedia.org/wiki/D._D._Martin_House_Complex"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.848006,
+          42.936091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "125 Jewett Pkwy. Buffalo, NY",
+        "title": "Darwin D. Martin House",
+        "wiki": "http://en.wikipedia.org/wiki/Darwin_D._Martin_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.8437118,
+          42.9176963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Roughly bounded by Parkside Ave., Amherst St., Colvin Ave., NY Central RR tracks, Main St., and Humboldt Ave. Buffalo, NY",
+        "title": "Parkside East Historic District",
+        "wiki": "http://en.wikipedia.org/wiki/Parkside_East_Historic_District"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.523359,
+          39.15185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1 Rawson Woods Circle. Cincinnati, OH",
+        "title": "Cedric G. and Patricia Neils Boulter House",
+        "wiki": "http://en.wikipedia.org/wiki/Cedric_G._and_Patricia_Neils_Boulter_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.21709,
+          41.1860076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "S of Wellington on OH 58, Wellington Township Wellington, OH",
+        "title": "Mosher House",
+        "wiki": "http://en.wikipedia.org/wiki/Mosher_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.40821,
+          41.619268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2203 River Rd. Willoughby Hills, OH",
+        "title": "Louis A. Penfield House",
+        "wiki": "http://en.wikipedia.org/wiki/Louis_A._Penfield_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.415134,
+          39.195683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "6980 Knoll Rd. Cincinnati, OH",
+        "title": "Gerald B. and Beverley Tonkens House",
+        "wiki": "http://en.wikipedia.org/wiki/Gerald_B._and_Beverley_Tonkens_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.78919599999999,
+          39.921503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1340 E. High St. Springfield, OH",
+        "title": "Westcott House",
+        "wiki": "http://en.wikipedia.org/wiki/Westcott_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -95.97680679999999,
+          36.74756929999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "6th St. and Dewey Ave. Bartlesville, OK",
+        "title": "Price Tower",
+        "wiki": "http://en.wikipedia.org/wiki/Price_Tower"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -95.95418699999999,
+          36.1095789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "3704 S. Birmingham St. Tulsa, OK",
+        "title": "Westhope",
+        "wiki": "http://en.wikipedia.org/wiki/Westhope"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -94.9778607,
+          33.9678709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "E of Millerton on U.S. 70 Millerton, OK",
+        "title": "Wheelock Academy",
+        "wiki": "http://en.wikipedia.org/wiki/Wheelock_Academy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.12706,
+          40.0821449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "8231 Old York Road, Elkins Park, PA",
+        "title": "Beth Sholom Congregation (Elkins Park, Pennsylvania)",
+        "wiki": "http://en.wikipedia.org/wiki/Beth_Sholom_Congregation_(Elkins_Park,_Pennsylvania)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.45762719999999,
+          39.9161112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "W of PA 381 Mill Run, PA",
+        "title": "Fallingwater",
+        "wiki": "http://en.wikipedia.org/wiki/Fallingwater"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.5600082,
+          39.8626462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "723 Kentuck Road, Chalk Hill, PA",
+        "title": "Kentuck Knob",
+        "wiki": "http://en.wikipedia.org/wiki/Kentuck_Knob"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Auldbrass Plantation",
+        "wiki": "http://en.wikipedia.org/wiki/Auldbrass_Plantation"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.390755,
+          34.8732619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "9 W. Avondale Dr. Greenville, SC",
+        "title": "Broad Margin",
+        "wiki": "http://en.wikipedia.org/wiki/Broad_Margin"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.11841179999999,
+          36.9599377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "100-500 Blks of E. Fifth Ave. Kenbridge, VA",
+        "title": "Fifth Avenue Historic District",
+        "wiki": "http://en.wikipedia.org/wiki/Fifth_Avenue_Historic_District"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.2124745,
+          38.7896964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "E of Accotink off U.S. 1 Accotink, VA",
+        "title": "Pope-Leighey House",
+        "wiki": "http://en.wikipedia.org/wiki/Pope-Leighey_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.054865,
+          47.590267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2202 212th Ave. SE. Issaquah, WA",
+        "title": "Brandes House",
+        "wiki": "http://en.wikipedia.org/wiki/Brandes_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.350822,
+          47.431226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "18971 Edgecliff Dr. SW. Seattle, WA",
+        "title": "Tracy House",
+        "wiki": "http://en.wikipedia.org/wiki/Tracy_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.3842121,
+          43.3335241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "316 S. Church St. Richland Center, WI",
+        "title": "A. D. German Warehouse",
+        "wiki": "http://en.wikipedia.org/wiki/A._D._German_Warehouse"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.89860499999999,
+          43.146033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "7111 N. Barnett Ln. Fox Point, WI",
+        "title": "Allbert and Edith Adelman House",
+        "wiki": "http://en.wikipedia.org/wiki/Allbert_and_Edith_Adelman_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.9740877,
+          43.01016569999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "W. Burnham St. Milwaukee, WI",
+        "title": "American System Built Homes-Burnham Street District",
+        "wiki": "http://en.wikipedia.org/wiki/American_System_Built_Homes-Burnham_Street_District"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.029409,
+          43.099632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "9400 W. Congress St. Wauwatosa, WI",
+        "title": "Annunciation Greek Orthodox Church",
+        "wiki": "http://en.wikipedia.org/wiki/Annunciation_Greek_Orthodox_Church"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.876651,
+          43.061712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2420 N. Terrace Ave. Milwaukee, WI",
+        "title": "Frederick C. Bogk House",
+        "wiki": "http://en.wikipedia.org/wiki/Frederick_C._Bogk_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.4352112,
+          43.0759615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "900 University Bay Dr. Shorewood Hills, WI",
+        "title": "First Unitarian Society",
+        "wiki": "http://en.wikipedia.org/wiki/First_Unitarian_Society"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.418483,
+          43.070786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "120 Ely Pl. Madison, WI",
+        "title": "Eugene A. Gilmore House",
+        "wiki": "http://en.wikipedia.org/wiki/Eugene_A._Gilmore_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.781683,
+          42.716414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1319 S. Main St. Racine, WI",
+        "title": "Thomas P. Hardy House",
+        "wiki": "http://en.wikipedia.org/wiki/Thomas_P._Hardy_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.441537,
+          43.058507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "441 Toepfer Ave. Madison, WI",
+        "title": "Herbert A. Jacobs House",
+        "wiki": "http://en.wikipedia.org/wiki/Herbert_A._Jacobs_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.441537,
+          43.058507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "441 Toepfer Avenue Madison, WI",
+        "title": "Herbert and Katherine Jacobs, First House",
+        "wiki": "http://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs,_First_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.53514799999999,
+          43.073519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "3995 Shawn Trail Middleton, WI",
+        "title": "Herbert and Katherine Jacobs, Second House",
+        "wiki": "http://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs,_Second_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.53514799999999,
+          43.073519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "3995 Shawn Trail Madison, WI",
+        "title": "Herbert Jacobs, Second House",
+        "wiki": "http://en.wikipedia.org/wiki/Herbert_Jacobs,_Second_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.616439,
+          42.590571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "3455 S. Shore Dr. Delavan, WI",
+        "title": "A.P. Johnson House",
+        "wiki": "http://en.wikipedia.org/wiki/A.P._Johnson_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.771599,
+          42.784472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "33 E. Four Mile Rd. Wind Point, WI",
+        "title": "Herbert F. Johnson House",
+        "wiki": "http://en.wikipedia.org/wiki/Herbert_F._Johnson_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7906859,
+          42.7151736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1525 Howe St. Racine, WI",
+        "title": "Johnson Wax Headquarters",
+        "wiki": "http://en.wikipedia.org/wiki/Johnson_Wax_Headquarters"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.611336,
+          42.593266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "3335 S. Shore Dr. Delavan Lake, WI",
+        "title": "Fred B. Jones Estate",
+        "wiki": "http://en.wikipedia.org/wiki/Fred_B._Jones_Estate"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.382396,
+          43.07706599999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "22 N. Butler St. Madison, WI",
+        "title": "Robert M. Lamp House",
+        "wiki": "http://en.wikipedia.org/wiki/Robert_M._Lamp_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.8101009,
+          43.5613679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Dell Ave. Lake Delton, WI",
+        "title": "Seth Peterson Cottage",
+        "wiki": "http://en.wikipedia.org/wiki/Seth_Peterson_Cottage"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.801987,
+          43.001955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "332 E. Linden St. Jefferson, WI",
+        "title": "Richard C. Smith House",
+        "wiki": "http://en.wikipedia.org/wiki/Richard_C._Smith_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.0679016,
+          43.1752695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2 mi. S of Spring Green on WI 23 Spring Green, WI",
+        "title": "Taliesin (studio)",
+        "wiki": "http://en.wikipedia.org/wiki/Taliesin_(studio)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.067399,
+          43.1880156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "S of Spring Green off WI 23 Spring Green, WI",
+        "title": "Unity Chapel",
+        "wiki": "http://en.wikipedia.org/wiki/Unity_Chapel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.6127494,
+          44.9199227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "904 Grand Ave. Wausau, WI",
+        "title": "Duey and Julia Wright House",
+        "wiki": "http://en.wikipedia.org/wiki/Duey_and_Julia_Wright_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6829039,
+          34.791902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "117 Riverview Dr. Florence, AL",
+        "title": "Rosenbaum House",
+        "wiki": "http://en.wikipedia.org/wiki/Rosenbaum_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -72.68912999999999,
+          41.7873981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "27 Keney Terr. Hartford, CT",
+        "Title": "Dr. Frank T. Simpson House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.516994,
+          39.773216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "619 Shipley Rd. Wilmington, DE",
+        "title": "Laurel (Wilmington, Delaware)",
+        "wiki": "http://en.wikipedia.org/wiki/Laurel_(Wilmington,_Delaware)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.292428,
+          37.689829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "255 N. Roosevelt St. Wichita, KS",
+        "title": "Henry J. Allen House",
+        "wiki": "http://en.wikipedia.org/wiki/Henry_J._Allen_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.87653,
+          38.190559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "509 Shelby St. Frankfort, KY",
+        "title": "Jessie R. Ziegler Residence",
+        "wiki": "http://en.wikipedia.org/wiki/Jessie_R._Ziegler_Residence"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.166714,
+          39.007656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "7927 Deepwell Dr. Bethesda, MD",
+        "title": "Robert Llewellyn Wright House",
+        "wiki": "http://en.wikipedia.org/wiki/Robert_Llewellyn_Wright_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -72.518276,
+          42.350128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "38 Shays St. Amherst, MA",
+        "title": "Theodore Baird Residence",
+        "wiki": "http://en.wikipedia.org/wiki/Theodore_Baird_Residence"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.2764894,
+          32.3394283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "306 Glen Way Jackson, MS",
+        "title": "Fountainhead (Jackson, Mississippi)",
+        "wiki": "http://en.wikipedia.org/wiki/Fountainhead_(Jackson,_Mississippi)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -100.6258603,
+          40.2027274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "602 Norris Ave. McCook, NE",
+        "title": "H. P. Stutton House",
+        "wiki": "http://en.wikipedia.org/wiki/H._P._Stutton_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.4627458,
+          43.0220148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "223 Heather St. Manchester, NH",
+        "title": "Zimmerman House",
+        "wiki": "http://en.wikipedia.org/wiki/Zimmerman_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.7915237,
+          44.99444769999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "879 W. Main St. Siverton, OR",
+        "title": "Gordon House (Oregon)",
+        "wiki": "http://en.wikipedia.org/wiki/Gordon_House_(Oregon)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.250125,
+          35.051939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "334 N. Crest Rd. Chattanooga, TN",
+        "title": "Seamour and Gerte Shavin House",
+        "wiki": "http://en.wikipedia.org/wiki/Seamour_and_Gerte_Shavin_House"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -109.002766,
+          44.509868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "5588 Greybull Hwy. Cody, WY",
+        "title": "Quintin Blair House",
+        "wiki": "http://en.wikipedia.org/wiki/Quintin_Blair_House"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
