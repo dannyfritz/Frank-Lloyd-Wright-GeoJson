@@ -1513,12 +1513,13 @@
     {
       "geometry": {
         "coordinates": [
-          0,
-          0
+          -80.8117167,
+          32.6807167
         ],
         "type": "Point"
       },
       "properties": {
+        "Address": "Auldbrass Plantation Road, Yemassee, SC",
         "marker-size": "small",
         "marker-symbol": "building",
         "Title": "Auldbrass Plantation",
